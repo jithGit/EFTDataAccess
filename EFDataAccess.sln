@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFDataAccess", "EFDataAccess\EFDataAccess.csproj", "{B3634EE6-ABF2-4064-A6F1-1944B8221DA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFDataAccess.Test", "EFDataAccess.Test\EFDataAccess.Test.csproj", "{DCC894F8-E128-4240-B46A-DA14D3535010}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3634EE6-ABF2-4064-A6F1-1944B8221DA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3634EE6-ABF2-4064-A6F1-1944B8221DA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3634EE6-ABF2-4064-A6F1-1944B8221DA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3634EE6-ABF2-4064-A6F1-1944B8221DA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCC894F8-E128-4240-B46A-DA14D3535010}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCC894F8-E128-4240-B46A-DA14D3535010}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCC894F8-E128-4240-B46A-DA14D3535010}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCC894F8-E128-4240-B46A-DA14D3535010}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
